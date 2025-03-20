@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ### Running the Pipeline
 To run the logo clustering pipeline, execute:
 ```sh
-python main.py --model mobilenet_v2
+python LogoClustering.py --model mobilenet_v2
 ```
 
 #### Arguments:
