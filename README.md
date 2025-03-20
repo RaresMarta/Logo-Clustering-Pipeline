@@ -52,11 +52,8 @@ python LogoClustering.py --model mobilenet_v2
 ## Example Output
 After clustering, the program will output sample icons from detected clusters, visualizing them in groups based on similarity.
 
-## License
-This project is licensed under the MIT License.
-
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss your idea.
 
 ## Author
-Developed by [Marta Rares]
+Developed by Marta Rares.
